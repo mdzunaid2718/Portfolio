@@ -1,9 +1,7 @@
 # Software Developer Folio ⚡️ 
 ## A clean, beautiful and responsive portfolio template for Developers!
-
-
+To view a live example, **[click here](https://moohdzunaid.herokuapp.com)**.
 But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/mdzunaid2718/Portfolio/issues).
-
 
 If you created something awesome and want to contribute then feel free to open an [pull request]().
 
@@ -19,9 +17,6 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Work Experience\
 ✔️ Contact me\
 ✔️ Github Profile
-
-To view a live example, **[click here](https://moohdzunaid.herokuapp.com)**.
-
 
 ## Technologies Used 
 
